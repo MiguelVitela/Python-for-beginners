@@ -1,0 +1,8 @@
+
+INTRODUCCIÓN
+
+En este capítulo exploraremos las diferentes formas en que se pueden representar los números.
+por los tipos integrados en Python. También presentaremos el tipo booleano utilizado para
+representan Verdadero y Falso. Como parte de esta discusión, también veremos tanto
+operadores numéricos y de asignación en Python. Concluiremos presentando el
+valor especial conocido como "None".

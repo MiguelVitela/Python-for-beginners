@@ -1,0 +1,42 @@
+
+TIPOS DE NÚMEROS
+
+Hay tres tipos que se utilizan para representar números en Python; estos son números enteros (o
+integral), números de coma flotante y números complejos.
+Esto plantea la pregunta ¿por qué? Por qué tener diferentes formas de representar números;
+después de todo, los humanos pueden trabajar fácilmente con el número 4 y el número 4.0 y no
+necesitan enfoques completamente diferentes para escribirlos (aparte del '.' por supuesto).
+En realidad, esto se reduce a la eficiencia en términos de cantidad de memoria
+necesario para representar un número y la cantidad de potencia de procesamiento necesaria para trabajar
+con ese número. En esencia, es más fácil trabajar con números enteros y pueden ocupar menos
+memoria que los números reales. Los enteros son números enteros que no necesitan tener un
+elemento fraccionario. Cuando se suman, multiplican o restan dos números enteros,
+siempre genere otro número entero.
+En Python, los números reales se representan como números de punto flotante (o flotantes).
+Estos pueden contener una parte fraccionaria (el bit después del punto decimal). Escaneo de computador
+funciona mejor con números enteros (en realidad, por supuesto, solo realmente 1 y 0). Ellos por lo tanto
+Necesito una forma de representar un punto flotante o un número real. Normalmente esto implica
+que representan los dígitos antes y después del punto decimal.
+
+
+El término punto flotante se deriva del hecho de que no existe un número fijo de
+dígitos antes o después del punto decimal; es decir, el punto decimal puede flotar.
+Operaciones con números de coma flotante como suma, resta, multiplicación
+etc. generarán nuevos números reales que también deben ser representados. Tambien es mucho
+Es más difícil asegurarse de que los resultados sean correctos, ya que potencialmente son muy pequeños y muy grandes.
+pueden estar involucradas partes fraccionarias. De hecho, la mayoría de los números de coma flotante son
+representado como aproximaciones. Esto significa que uno de los desafíos en el manejo
+números de punto flotante es para asegurar que las aproximaciones conduzcan a
+resultados. Si esto no se hace adecuadamente, pequeñas discrepancias en las aproximaciones
+puede convertirse en una bola de nieve hasta el punto en que los resultados finales pierden sentido.
+Como resultado, la mayoría de los lenguajes de programación de computadoras tratan números enteros como 4
+siendo diferente de los números reales como 4.000000004.
+
+
+Los números complejos son una extensión de los números reales en los que todos los números son
+expresado como la suma de una parte real y una parte imaginaria. Los números imaginarios son reales
+múltiplos de la unidad imaginaria (la raíz cuadrada de -1), donde la parte imaginaria es
+a menudo se escribe en matemáticas usando una 'i' mientras que en ingeniería a menudo se escribe
+usando una 'j'.
+Python tiene soporte incorporado para números complejos, que se escriben usando la
+notación de ingeniería; es decir, la parte imaginaria está escrita con un sufijo j, p. ej. 3 + 1j.

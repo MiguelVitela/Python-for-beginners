@@ -1,0 +1,12 @@
+OPERACIONES ARITMÉTICAS
+
+Los operadores aritméticos se utilizan para realizar alguna forma de operación matemática como
+como suma, resta, multiplicación y división, etc. En Python están representados por uno o dos caracteres. 
+
++    │     Add the left and right values together                                                │     1+2
+−    │     Subtract the right value from the left value                                          │     3−2
+*    │     Multiple the left and right values                                                    │     3*4
+/    │     Divide the left value by the right value                                              │     12/3
+//   │     Integer division (ignore any remainder)                                               │     12//3 
+%    │     Modulus (aka the remainder operator)—only return any remainder                        │     13%3
+**   │     Exponent (or power of) operator—with the left value raised to the power of the right  │     3**4

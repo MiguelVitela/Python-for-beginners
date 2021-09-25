@@ -11,6 +11,9 @@ lic = 'Olivella'
 print(lic.lower().startswith('o')) # Lower convierte a minusculas todas las letras de una cadena
 print('----' *20)
 
+#Se adjunta ejemplo de uso del método lower
+hola = 'HOLAAA'
+print(hola.lower())
 # 4.6.2 Nombres de funciones / métodos
 
 """

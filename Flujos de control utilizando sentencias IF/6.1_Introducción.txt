@@ -1,0 +1,12 @@
+INTRODUCCIÓN
+
+En este capítulo veremos la declaración if en Python. Esta declaración es
+se utiliza para controlar el flujo de ejecución dentro de un programa en función de alguna condición.
+Estas condiciones representan algún punto de elección que se evaluará como Verdadero o
+Falso. Para realizar esta evaluación es común utilizar un operador de comparación (para
+ejemplo para comprobar si la temperatura es superior a algún umbral). En muchos
+casos, estas comparaciones deben tener en cuenta varios valores y en estos
+situaciones Los operadores lógicos se pueden utilizar para combinar dos o más comparaciones
+expresiones juntas.
+Este capítulo primero presenta los operadores lógicos y de comparación antes de discutir
+la declaración if en sí.

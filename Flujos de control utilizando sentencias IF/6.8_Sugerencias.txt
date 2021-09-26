@@ -1,0 +1,8 @@
+Una cosa con la que hay que tener mucho cuidado en Python es el diseño.
+A diferencia de lenguajes como Java y C #, el diseño de su programa es parte de su
+programa. Determina cómo se asocian las declaraciones y cómo fluyen
+elementos de control tales como las declaraciones if afectan qué declaraciones se ejecutan.
+Además, tenga cuidado con la instrucción if y su uso del carácter ':'.
+Este carácter es clave para separar la parte condicional de la instrucción if de la
+declaraciones que se ejecutarán dependiendo de si la condición es Verdadera o
+Falso.

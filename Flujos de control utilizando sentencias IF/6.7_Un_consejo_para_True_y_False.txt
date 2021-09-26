@@ -1,0 +1,8 @@
+Python es bastante flexible cuando se trata de lo que realmente se usa para representar
+Verdadero y falso, de hecho se aplican las siguientes reglas:
+
+• 0, '' (cadenas vacías), Ninguno equivale a Falso
+• Cadenas distintas de cero, no vacías, cualquier objeto equivale a Verdadero.
+
+Sin embargo, le recomendamos que se ciña a Verdadero y Falso, ya que a menudo es
+un enfoque más limpio y seguro.

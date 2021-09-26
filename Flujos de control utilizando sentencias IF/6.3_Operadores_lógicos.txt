@@ -1,0 +1,17 @@
+OPERADORES LÓGICOS
+
+Además de los operadores de comparación, Python también tiene operadores lógicos.
+Los operadores lógicos se pueden utilizar para combinar expresiones booleanas.
+Normalmente, se utilizan con operadores de comparación para crear condiciones más complejas. 
+Nuevamente, los usamos todos los días, por ejemplo, podríamos considerar si
+puede permitirse un helado y si cenaremos pronto, etc.
+Hay tres operadores lógicos en Python que se enumeran a continuación:
+
+
+Operator │                    Description                        │ Example
+
+and      │  Returns True if both left and right are true         │ (3 < 4) and (5 > 4)
+
+or       │  Returns True if either the left or the right is truce │ (3 < 4) or (3 > 5)
+
+not      │  Returns True if the value being tested is False      │ not 3 < 2

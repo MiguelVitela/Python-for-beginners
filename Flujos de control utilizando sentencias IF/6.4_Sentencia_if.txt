@@ -1,0 +1,10 @@
+LA SENTENcIA "if"
+
+Una instrucción if se utiliza como una forma de programación condicional; algo que tu
+probablemente hagas todos los días en el mundo real. Es decir, debes decidir si
+vas a tomar té o café o decidir si tendrás tostadas o un muffin para
+desayuno, etc. En cada uno de estos casos, estás haciendo una elección, generalmente basada en
+alguna información, como que ayer tomé café, así que hoy tomaré té.
+En Python, tales elecciones están representadas programáticamente por la sentencia "if".
+En esta construcción, si alguna condición es verdadera, se realiza alguna acción, por el 
+contrario si la condición es falsa se realizará otra acción en su lugar.

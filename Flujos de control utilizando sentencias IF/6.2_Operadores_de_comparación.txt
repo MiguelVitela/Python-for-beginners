@@ -1,0 +1,31 @@
+OPERADORES DE COMPARACIÓN
+
+Antes de explorar las declaraciones if, debemos analizar los operadores de comparación. Estas
+son operadores que devuelven valores booleanos. Son clave para los elementos condicionales.
+de flujo de declaraciones de control como si.
+Un operador de comparación es un operador que realiza algún tipo de prueba y devuelve
+Verdadero o falso.
+Estos son operadores que usamos en la vida cotidiana todo el tiempo. Por ejemplo, yo
+tengo suficiente dinero para comprar el almuerzo, o este zapato es de mi talla, etc.
+
+En Python hay un rango de operadores de comparación representados por típicamente uno
+o dos caracteres. Estos son:
+
+
+Operator │                             Description                                       │ Example
+  
+==       │ Tests if two values are equal                                                 │ 3 == 3
+ 
+!=       │ Tests that two values are not equal to each other                             │ 2 != 3
+
+<        │ Tests to see if the left-hand value is less than the right-hand value         │ 2<3
+ 
+>        │ Tests if the left-hand value is greater than the right-hand value             │ 3>2
+
+<=       │ Tests if the left-hand value is less than or equal to the right-hand value    │ 3 <= 4
+
+>=       │ Tests if the left-hand value is greater than or equal to the right-hand value │ 5 >= 4
+
+
+
+
